@@ -1,3 +1,4 @@
+//Clase Base (Abstracción y Encapsulamiento)
 package com.empresa.modelos;
 
 public abstract class Empleado {
