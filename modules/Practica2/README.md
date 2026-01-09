@@ -12,9 +12,8 @@ Se implementa un constructor para inicializar los atributos al momento de la cre
 
 3. Métodos (Comportamiento)
 Se definen las capacidades del objeto:
-
-Consultar Saldo: Un método con tipo de retorno (double) que expone información de forma segura.
-Depositar: Un método de tipo void que incluye lógica de validación para modificar el estado del objeto.
+- Consultar Saldo: Un método con tipo de retorno (double) que expone información de forma segura.
+- Depositar: Un método de tipo void que incluye lógica de validación para modificar el estado del objeto.
 
 4. Instanciación y Ejecución
 En la clase Principal, se utiliza el operador new para reservar memoria en el Heap y transformar el molde en un objeto real capaz de ejecutar las instrucciones definidas.
